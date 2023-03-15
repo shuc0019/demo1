@@ -13,19 +13,7 @@ public class HomeController {
     // hello world
 
     public static void main(String[] args) {
-        System.out.println("allo allo");
+        System.out.println("allo all");
     }
-2eofkdoåxf åodsmjgå
-            kdsfxmkåpg
+
 }
-fdscxjf kg
-
-    public static ngk newInstance(m mdgkæm fgkm kcxfgm) {
-
-        ågm lcfmg klcmgå
-         cmvåmk bv4b mandroid.os.Bundle args = new Bundle();
-
-        ngk fragment = new ngk();
-        fragment.setArguments(args);
-        return fragment;
-    }
