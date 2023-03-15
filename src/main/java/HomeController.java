@@ -15,11 +15,7 @@ public class HomeController {
     public static void main(String[] args) {
         System.out.println("allo all");
     }
-hfduhdouhg¨f
-    hg
-
-    public f getHg() {
-        getHg()ghdfhgpuj dfhjpdfbn v
-
+    public Integer g(){
+        return 12;
     }
 }
