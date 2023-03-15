@@ -18,3 +18,14 @@ public class HomeController {
 2eofkdoåxf åodsmjgå
             kdsfxmkåpg
 }
+fdscxjf kg
+
+    public static ngk newInstance(m mdgkæm fgkm kcxfgm) {
+
+        ågm lcfmg klcmgå
+         cmvåmk bv4b mandroid.os.Bundle args = new Bundle();
+
+        ngk fragment = new ngk();
+        fragment.setArguments(args);
+        return fragment;
+    }
